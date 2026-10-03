@@ -74,7 +74,7 @@
     "streamdown": "^2.5.0",
     "tailwind-gradient-mask-image": "^1.2.0",
     "tailwind-merge": "^2.2.1",
-    "undici": "^7.24.6",
+    "undici": "^7.29.1",
     "vega": "^6.2.0",
     "vega-embed": "^7.1.0",
     "vega-lite": "^6.4.2",
